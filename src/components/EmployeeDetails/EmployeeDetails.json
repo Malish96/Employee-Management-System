@@ -1,0 +1,36 @@
+[
+{
+    "employeeId": 111110,
+    "firstName": "John",
+    "lastName": "Riley",
+    "department": "Finance",
+    "designation": "Accountant"
+},
+{
+"employeeId": 111111,
+"firstName": "Harold",
+"lastName": "Grey",
+"department": "IT",
+"designation": "Software Engineer"
+},
+{
+"employeeId": 111112,
+"firstName": "Robert",
+"lastName": "Whistler",
+"department": "IT",
+"designation": "Software Engineer"
+},
+{
+"employeeId": 1111113,
+"firstName": "Samantha",
+"lastName": "Groose",
+"department": "IT",
+"designation": "Manager"
+},{
+    "employeeId": 1111114,
+    "firstName": "Samantha",
+    "lastName": "Groose",
+    "department": "IT",
+    "designation": "Manager"
+}
+]
